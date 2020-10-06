@@ -1,4 +1,4 @@
-# Digital Signal Processing RTOS
+# Digital Signal Processing using FreeRTOS
 ## Dependancies
 - FreeRTOS*
 - STM32F4 Standard Peripheral Library
